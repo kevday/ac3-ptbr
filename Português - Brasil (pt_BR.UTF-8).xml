@@ -1680,5 +1680,7 @@
       <translation phrase="All Status Updates"><![CDATA[Tudo Atualizações De Status]]></translation>
       <translation phrase="Add Notebook to the Project"><![CDATA[Adicionar Notebook para o Projeto]]></translation>
       <translation phrase="Amount Paid"><![CDATA[Valor Pago]]></translation>
+      <translation phrase="Application logs removed successfully"><![CDATA[Os registros do aplicativo removido com sucesso]]></translation>
+      <translation phrase="Application cache removed successfully"><![CDATA[Cache do aplicativo removido com sucesso]]></translation>
     </translations>
   </language>
